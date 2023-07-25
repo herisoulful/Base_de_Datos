@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/91554777/235196884-6cfb1909-3699-4c0f-ad0f-09ff27471105.png)
 
 https://www.db-fiddle.com/f/41edwiU746DLfYwctP4Mue/0  /* VERSIÓN 1 */
+
 https://www.db-fiddle.com/f/41edwiU746DLfYwctP4Mue/3  /* VERSION 3 */
 
 ![image](https://user-images.githubusercontent.com/91554777/235502032-0d8f2296-5816-422b-93b5-be9def027bad.png)
