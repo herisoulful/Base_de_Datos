@@ -6,6 +6,8 @@ https://www.db-fiddle.com/f/41edwiU746DLfYwctP4Mue/3  /* VERSION 3 */
 
 https://www.db-fiddle.com/f/41edwiU746DLfYwctP4Mue/5  /* VERSION 5 */
 
+https://www.db-fiddle.com/f/41edwiU746DLfYwctP4Mue/7  /* VERSION 7 */
+
 ![image](https://user-images.githubusercontent.com/91554777/235502032-0d8f2296-5816-422b-93b5-be9def027bad.png)
 
 
